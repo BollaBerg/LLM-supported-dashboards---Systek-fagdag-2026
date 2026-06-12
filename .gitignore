@@ -10,3 +10,7 @@ wheels/
 .venv
 
 .adk/
+/.quarto/
+**/*.quarto_ipynb
+**/*_files/*
+**/fagdag-2026.html

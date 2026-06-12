@@ -1,0 +1,33 @@
+---
+title: "LLM-støttede dashbord"
+author: "Andreas B. Berg"
+format:
+    revealjs:
+        footer: "Andreas B. Berg - Systek Fagdag 2026"
+        logo: systek-logo.png
+        theme: [default, theme.scss]
+title-slide-attributes:
+    data-background-color: "#97D2EC"
+---
+
+## Agenda
+
+1. Hvorfor
+2. Demo
+3. Hvordan
+4. Hva må man tenke på?
+
+# Hvorfor? {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
+
+
+# Demo {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
+
+# Hvordan? {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
+
+# Hva må man tenke på? {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
+
+# Takk for meg {background-gradient="linear-gradient(to bottom, #FF8C45, #97D2EC)"}
+
+
+
+
