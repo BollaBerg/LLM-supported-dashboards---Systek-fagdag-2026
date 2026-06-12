@@ -145,6 +145,18 @@ async def run_async(session_id: str, new_message: str):
     - Kort avstand fra data til svar
     - Dobbeltsjekk der mulig
 
+## Alt er async
+
+- Krever litt mer å sy sammen tools og AI-svar
+- Vanskelig å postprosessere svar
+
+. . .
+
+- Mitigering:
+    - Returner strings der mulig
+    - Bruk verktøy som ikke krever mye etterbehandling
+    - Legg inn forsinkelser der det er behov for det
+
 
 ## Sikkerhet
 

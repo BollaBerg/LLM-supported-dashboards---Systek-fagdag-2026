@@ -15,6 +15,8 @@ root_agent = Agent(
 
     You have access to run queries against a database. Make sure the query is valid SQL. NEVER insert any data into the
     database, only SELECT from it.
+    When you query the database, always return the result table in your response, and use it to answer the user's 
+    question. If the query returns an empty table, use that information in your answer.
     """,
     tools=[query_database],
 )
