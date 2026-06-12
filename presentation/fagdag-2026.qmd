@@ -22,6 +22,10 @@ title-slide-attributes:
 
 # Demo {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
 
+Kode tilgjengelig på:
+
+<https://github.com/BollaBerg/LLM-supported-dashboards---Systek-fagdag-2026>
+
 # Hvordan? {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}
 
 # Hva må man tenke på? {background-gradient="linear-gradient(to bottom, #FF8C45, #FFD865)"}

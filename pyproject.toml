@@ -1,9 +1,13 @@
 [project]
-name = "fagdag26-llm-dashboard"
+name = "fagdag-demo"
 version = "0.1.0"
-description = "Add your description here"
+description = "A soccer analytics demo project for Systek Fagdag 2026."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "google-adk>=2.2.0",
+    "pandas>=3.0.3",
+    "plotly>=6.8.0",
+    "streamlit>=1.58.0",
+    "tabulate>=0.10.0",
 ]
